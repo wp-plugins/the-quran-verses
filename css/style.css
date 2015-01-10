@@ -1,0 +1,27 @@
+#the-quran-verses {
+	background: #eeeeee;
+	border: 1px #999999 solid;
+	padding: 15px;
+}
+
+#tqv-heading {
+	font-size: 200%;
+	
+}
+
+#content-arabic {
+	direction: rtl;
+	font-size: 150%;
+}
+
+#content-translation {
+	font-size: 100%;
+}
+
+#content-translation {
+	font-size: 100%;
+}
+
+#quran-reference, #translation-description {
+	font-size: 70%;
+}

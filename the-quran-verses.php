@@ -20,7 +20,7 @@ Plugin URI: http://noble-soft.com/demo/wordpress/the-quran-verses/
 			//plugin settings
 			?>
 			<p>
-			Because most of the hosting servers do not allow download of large size files, we have introduced this plugin with 200 verses only. To download full version, please do not forget to visit author's website.</p>
+			Important! Because most of the hosting servers do not allow download of large files, we have introduced this plugin with 200 verses only. To download full version, please do not forget to visit author's <a href="http://noble-soft.com/product/the-quran-verses/" target="_blank">website</a> for this plugin.</p>
 			<?php
 		  }
 	  	register_widget_control(array('The Quran Verses', 'widgets'), 'widget_tqv_settings');

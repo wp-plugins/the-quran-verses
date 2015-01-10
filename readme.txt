@@ -2,7 +2,7 @@
 
 Contributors: noblesoft
 
-Tags: quran, koran, read, random, english, arabic, islam, graphics, message, background, ajax, facebook.
+Tags: quran, koran, read, random, english, arabic, islam, graphics, message, background, ajax, facebook, verse, ayat, widget, 
 
 Requires at least: 2.4
 
@@ -12,17 +12,20 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays random verses from the holy quran with ajax refresh button and option to share on facebook.
+Displays random verses from the holy Quran with Ajax refresh button and option to share on Facebook.
 
 == Description ==
 
-The Quran Verses is a plugin that displays random verses from the holy Quran with translation for you to read with an option of reload button to open and read next verses.
+The Quran Verses is a sidebar widget that displays random verses from the holy Quran with translation on your wordpress website for your visitors to read with option of refresh button to open and read next verses.
 
-We have also added the facility to share the contents on facebook with beautiful backgrounds including translation that contributes to the lovely feelings of the reader.
+We have also added the facility to share the arabic and translation contents on facebook with beautiful backgrounds that contributes to the lovely feelings of the reader.
 
-Right now, the initial version is loaded with english translation only but we are striving to make the script available in other languages too. We welcome your feedback in localization and development of software features.
+Right now, the few initial versions will be loaded with english translation only but we are striving to make the script available in other languages too. We welcome your feedback in localization and development of software features.
 
-Because most of the hosting servers do not allow download of large size files, we have introduced this plugin with 200 verses only. To download full version, please do not forget to visit author's website.
+Because most of the hosting servers do not allow download of large file sizes, we have put in this plugin with 200 verses only . For full version, you are welcome to visit [Noble Soft](http://noble-soft.com/product/the-quran-verses/ "The Quran Verses - Noble Soft")
+ for The Quran Verses and get your free download.
+
+Please do not forget to give us a nice feedback.
 
 == Installation ==
 
@@ -34,6 +37,6 @@ Because most of the hosting servers do not allow download of large size files, w
 
 5. Create your Facebook API key and add to js/facebook-share.js, also edit this js file body for your needs.
 
-6. Find CSS settings here, css/style.css. Edit per your choice.
+6. Find CSS settings at css/style.css and edit per your choice.
 
-7. To use this plugin, you must subscribe to receive important email updates when we make changes to the plugin by going to [The Quran Verses](http://noble-soft.com/product/wordpress/the-quran-verses/ “Subscribe for important product updates”)
+7. To use this plugin, you must subscribe to receive important email updates when we make changes to the plugin by going to [The Quran Verses](http://noble-soft.com/product/the-quran-verses/ "Subscribe for important product updates")
